@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Manawariqbal/test.git/static/css/main.9d742f2d.chunk.css",
+    "main.js": "/Manawariqbal/test.git/static/js/main.e298d9ad.chunk.js",
+    "main.js.map": "/Manawariqbal/test.git/static/js/main.e298d9ad.chunk.js.map",
+    "runtime-main.js": "/Manawariqbal/test.git/static/js/runtime-main.bcdd8020.js",
+    "runtime-main.js.map": "/Manawariqbal/test.git/static/js/runtime-main.bcdd8020.js.map",
+    "static/js/2.ba7a0dbc.chunk.js": "/Manawariqbal/test.git/static/js/2.ba7a0dbc.chunk.js",
+    "static/js/2.ba7a0dbc.chunk.js.map": "/Manawariqbal/test.git/static/js/2.ba7a0dbc.chunk.js.map",
+    "static/js/3.2b7bc147.chunk.js": "/Manawariqbal/test.git/static/js/3.2b7bc147.chunk.js",
+    "static/js/3.2b7bc147.chunk.js.map": "/Manawariqbal/test.git/static/js/3.2b7bc147.chunk.js.map",
+    "index.html": "/Manawariqbal/test.git/index.html",
+    "static/css/main.9d742f2d.chunk.css.map": "/Manawariqbal/test.git/static/css/main.9d742f2d.chunk.css.map",
+    "static/js/2.ba7a0dbc.chunk.js.LICENSE.txt": "/Manawariqbal/test.git/static/js/2.ba7a0dbc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcdd8020.js",
+    "static/js/2.ba7a0dbc.chunk.js",
+    "static/css/main.9d742f2d.chunk.css",
+    "static/js/main.e298d9ad.chunk.js"
+  ]
+}
